@@ -1,0 +1,43 @@
+E
+
+ Expt FLASH1  :   Flash Calculation                       
+
+ Soave-Redlich-Kwong             on ZI                                   
+ Lohrenz-Bray-Clark Viscosity Correlation                                
+ Two phase state
+
+ Specified temperature            Deg F               300.0000
+ Specified pressure               PSIA                600.0000
+ Mole Percentage in vapour                             30.7693
+ Calculated GOR                   MSCF/BBL              0.3241
+
+ ------------------- ------------ ------------ 
+                        Liquid       Vapour    
+ Fluid properties    ------------ ------------ 
+                      Calculated   Calculated  
+ ------------------- ------------ ------------ 
+ Mole Weight              86.0391      42.1967 
+ Z-factor                  0.2151       0.8332 
+ Viscosity                 0.0643       0.0143 
+ Density    LB/FT3        29.4452       3.7271 
+ Molar Vol  CF/LB-ML       2.9220      11.3216 
+ ------------------- ------------ ------------ 
+
+
+ ------------------- ------------ ------------ ------------ ------------ 
+ Molar Distributions   Total, Z     Liquid,X     Vapour,Y     K-Values   
+ Components          ------------ ------------ ------------ ------------ 
+ Mnemonic   Number     Measured    Calculated   Calculated   Calculated  
+ ------------------- ------------ ------------ ------------ ------------ 
+ CO2        1              5.0000       2.5838      10.4364       4.0391 
+ C1         2             10.0000       4.1693      23.1190       5.5450 
+ C2         3             12.0000       7.8327      21.3763       2.7291 
+ C3         4             12.0000      10.0546      16.3770       1.6288 
+ NC4        5             15.0000      15.1574      14.6459       0.9663 
+ NC5        6             17.0000      19.4618      11.4609       0.5889 
+ C10        7             29.0000      40.7403       2.5844       0.0634 
+ ------------------- ------------ ------------ ------------ ------------ 
+ Composition Total       100.0000     100.0000     100.0000              
+ ------------------- ------------ ------------ ------------ ------------ 
+
+

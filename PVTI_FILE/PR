@@ -1,0 +1,44 @@
+
+
+ Expt FLASH1  :   Flash Calculation                       
+ PVTi Flash through PVTToolBox switched to PVTi Flash & Psat to be used
+ Peng-Robinson                   on ZI       with PR corr.               
+ Lohrenz-Bray-Clark Viscosity Correlation                                
+ Two phase state
+
+ Specified temperature            Deg F               300.0000
+ Specified pressure               PSIA                600.0000
+ Mole Percentage in vapour                             29.4071
+ Calculated GOR                   MSCF/BBL              0.3454
+
+ ------------------- ------------ ------------ 
+                        Liquid       Vapour    
+ Fluid properties    ------------ ------------ 
+                      Calculated   Calculated  
+ ------------------- ------------ ------------ 
+ Mole Weight              85.3931      41.7165 
+ Z-factor                  0.1891       0.8110 
+ Viscosity                 0.0887       0.0144 
+ Density    LB/FT3        33.2281       3.7860 
+ Molar Vol  CF/LB-ML       2.5699      11.0186 
+ ------------------- ------------ ------------ 
+
+
+ ------------------- ------------ ------------ ------------ ------------ 
+ Molar Distributions   Total, Z     Liquid,X     Vapour,Y     K-Values   
+ Components          ------------ ------------ ------------ ------------ 
+ Mnemonic   Number     Measured    Calculated   Calculated   Calculated  
+ ------------------- ------------ ------------ ------------ ------------ 
+ CO2        1              5.0000       2.6727      10.5868       3.9611 
+ C1         2             10.0000       4.1870      23.9543       5.7211 
+ C2         3             12.0000       8.0027      21.5957       2.6986 
+ C3         4             12.0000      10.2162      16.2820       1.5937 
+ NC4        5             15.0000      15.3824      14.0821       0.9155 
+ NC5        6             17.0000      19.5466      10.8869       0.5570 
+ C10        7             29.0000      39.9924       2.6123       0.0653 
+ ------------------- ------------ ------------ ------------ ------------ 
+ Composition Total       100.0000     100.0000     100.0000              
+ ------------------- ------------ ------------ ------------ ------------ 
+
+
+
